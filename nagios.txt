@@ -1,0 +1,900 @@
+    1  man deluser
+    2  deluser miguel sudo
+    3  man deluser
+    4  exit
+    5  users
+    6  groupas
+    7  groups
+    8  ls /var/log
+    9  history
+   10  ls /var/log/syslog 
+   11  pwd
+   12  tail /var/log/syslog 
+   13  tail /var/log/lastlog 
+   14  tail /var/log/auth.log 
+   15  ls /var/log
+   16  ls -la /var/log
+   17  ls -l /var/log
+   18  ls /var/log
+   19  ls -l /var/log
+   20  cat /var/log/syslog | more
+   21  ls -la /var/log
+   22  ls
+   23  pwd
+   24  ls /la
+   25  ls -ls
+   26  ls -la
+   27  cd
+   28  ls
+   29  cd
+   30  ls
+   31  cd ..
+   32  ls
+   33  ls home
+   34  cd home/miguel/
+   35  ls
+   36  ls -la
+   37  cd ..
+   38  ls
+   39  cd usr
+   40  ls
+   41  cd ..
+   42  cd
+   43  ls
+   44  ls snap
+   45  ls
+   46  cd snap/lxd/
+   47  ls
+   48  cd
+   49  ls
+   50  pwd
+   51  cd /home/miguel
+   52  ls
+   53  pwd
+   54  ls /la
+   55  ls -la
+   56  ip addr
+   57  apt install telnet
+   58  shutdown
+   59  pwd
+   60  exit
+   61  man su
+   62  history
+   63  users
+   64  sudo dpkg
+   65  sudo dpkg -i
+   66  man dpkg
+   67  man su
+   68  telnet
+   69  man telnet
+   70  telnet -4
+   71  history
+   72  history head
+   73  history -head
+   74  cat history
+   75  history
+   76  echo history > prueba
+   77  ls
+   78  cat prueba
+   79  rm history
+   80  rm prueba
+   81  ls
+   82  history > touch prueba
+   83  history > prueba
+   84  ls
+   85  cat prueba
+   86  cat prueba head
+   87  cat prueba /head
+   88  cat prueba -head
+   89  cat prueba
+   90  cat prueba/head
+   91  man cat
+   92  man head
+   93  head prueba
+   94  man deluser
+   95  head prueba
+   96  more prueba
+   97  users
+   98  apt update telnet
+   99  man apt
+  100  history
+  101  more prueba
+  102  apt install
+  103  apt install telnet
+  104  apt update telnet
+  105  ip addr
+  106  ls
+  107  rm prueba
+  108  rm touch
+  109  ls
+  110  man sockets
+  111  man ss
+  112  ss -a
+  113  ss -ass -4a
+  114  ss -a -4
+  115  ss --listening
+  116  ss -4
+  117  ss /a
+  118  ss
+  119  ss -a
+  120  ss
+  121  ss -l
+  122  ss -l4
+  123  apt install telnetd
+  124  ss -l4
+  125  ss -4
+  126  ss -l
+  127  ss -4an
+  128  ss -4a
+  129  ss -4an
+  130  ss -4 -an
+  131  ip addr
+  132  init 0
+  133  ip addr
+  134  init 0
+  135  ip addr
+  136  init 0
+  137  ip addr
+  138  install telnet
+  139  apt install telnet
+  140  ls
+  141  pwd
+  142  touch hola
+  143  firefox
+  144  mozilla
+  145  man telnet
+  146  exit
+  147  ip addr
+  148  ip addr -4
+  149  ip -4
+  150  ip addr
+  151  telnet 192.168.1.4
+  152  pwd
+  153  ls
+  154  rm hola
+  155  hostnamectl
+  156  exit
+  157  ls- lh
+  158  ls -lh
+  159  pwd
+  160  cdf
+  161  cd ..
+  162  ls
+  163  ls -lh
+  164  ls home
+  165  ls home/miguel
+  166  ls root/
+  167  ls home/miguel/
+  168  ls home/miguel/.
+  169  ls
+  170  ls -lha
+  171  ls -lh
+  172  cd tmp
+  173  ls
+  174  pwd
+  175  touch prueba.txt
+  176  ls
+  177  rm prueba.txt 
+  178  touch "prueba 1".txt
+  179  ls
+  180  touch 'prueba 1'.txt
+  181  ls
+  182  touch "prueba 1.txt"
+  183  ls
+  184  rm prueba\ 1.txt 
+  185  touch "prueba 1.txt"
+  186  ls
+  187  rm prueba\ 1.txt 
+  188  ls -la
+  189  ls
+  190  ls -l
+  191  touch prueba.txt
+  192  vim
+  193  vim prueba.txt 
+  194  cat prueba.txt 
+  195  touch 1 2
+  196  la
+  197  ls
+  198  rm 1
+  199  rm 2
+  200  ls
+  201  touch "prueba 1.txt"
+  202  ls
+  203  vim prueba
+  204  vim "prueba 1.txt" 
+  205  ls
+  206  rm "prueba 1.txt" 
+  207  ls
+  208  cat prueba.txt 
+  209  ls
+  210  ip addr
+  211  ip addr > ip
+  212  ls
+  213  cat ip
+  214  rm ip
+  215  ls
+  216  cat prueba.txt 
+  217  ls
+  218  cd
+  219  ls
+  220  cd
+  221  ls
+  222  cd /
+  223  ls
+  224  ls var/log/
+  225  ls var/log/ -l
+  226  ls var/log/ -lh
+  227  ls var/log/ -lht
+  228  man ls
+  229  ls var/log/ -oht
+  230  ls var/log/ -lht
+  231  ls var/log/ -lhtr
+  232  ls var/log/ -lhtr > prueba
+  233  ls
+  234  head prueba
+  235  rm prueba
+  236  ls
+  237  ls var/log/ -lhtr > prueba
+  238  rm prueba 
+  239  ls var/log/ -lhtr
+  240  man df
+  241  man passwd
+  242  man df
+  243  df
+  244  df -h
+  245  pwd
+  246  cd home
+  247  ls
+  248  cd
+  249  pwd
+  250  cd /
+  251  ls tmp/
+  252  cd ..
+  253  cd home
+  254  ls
+  255  pwd
+  256  cp /tmp/prueba.txt /home/miguel/
+  257  ls
+  258  cd miguel/
+  259  ls
+  260  rm prueba.txt 
+  261  man rm
+  262  ls
+  263  rn -i /tmp/prueba.txt 
+  264  rm -i /tmp/prueba.txt 
+  265  ls
+  266  man mkdir
+  267  pwd
+  268  cd ..
+  269  pwd
+  270  mkdir miguel/prueba
+  271  ls miguel
+  272  ls miguel/
+  273  ls
+  274  rm- rf miguel/prueba/
+  275  rm -rf miguel/prueba~
+  276  ls
+  277  ls miguel
+  278  ls
+  279  pwd
+  280  cd miguel
+  281  ls -la
+  282  ls
+  283  ls -l
+  284  ls -a
+  285  ls -la
+  286  man grep
+  287  cd /
+  288  dmseg
+  289  dmesg
+  290  man dmesg
+  291  dmesg
+  292  dmesg | grep net
+  293  dmesg | grep eth
+  294  man dmesg
+  295  dmesg
+  296  dmesg | grep vga
+  297  dmesg | grep usb
+  298  dmesg | grep dvd
+  299  dmesg | grep cfrom
+  300  dmesg | grep cdrom
+  301  ls
+  302  cat /var/log/auth.log | grep miguel
+  303  cat /var/log/auth.log | grep su
+  304  cat /var/log/auth.log | grep miguel
+  305  cat /var/log/auth.log | grep failed
+  306  cat /var/log/auth.log | grep FAILED
+  307  cat /var/log/auth.log | grep miguel
+  308  cat /var/log/auth.log | grep passwd
+  309  cat /var/log/auth.log
+  310  cat /var/log/syslog
+  311  ls /var/log/
+  312  ls /var/log/ -lah
+  313  cat lastlog
+  314  cd /var/log/
+  315  ls
+  316  cat lastlog
+  317  ls -lah
+  318  ls apt
+  319  cat apt/history.log 
+  320  ls
+  321  cd ..
+  322  ls
+  323  cd log
+  324  ls
+  325  cat faillog 
+  326  cat auth.log 
+  327  cd ..
+  328  ls
+  329  cd ..
+  330  ls
+  331  cd usr
+  332  ls
+  333  cd srs
+  334  cd src
+  335  ls
+  336  cd ..
+  337  ls
+  338  cd ..
+  339  ls
+  340  cd snap
+  341  ls
+  342  cd ..
+  343  ls
+  344  cd ..
+  345  ls
+  346  pwd
+  347  cd var
+  348  ls
+  349  cd tmp
+  350  ls
+  351  cd ..
+  352  cd log
+  353  ls
+  354  cd /
+  355  ls
+  356  cd etc
+  357  ls
+  358  cd passwd
+  359  cat passwd
+  360  ls
+  361  cat passwd | grep miguel
+  362  cat passwd | grep root
+  363  more passwd
+  364  ls
+  365  cat hostname
+  366  hostnamectl
+  367  vim hostname
+  368  cat hostname
+  369  hostnamectl
+  370  cat hosts
+  371  vim hosts
+  372  hostnamectl
+  373  cat hosts
+  374  init 6
+  375  dpkg-reconfigure
+  376  dpkg-reconfigure keyboard-configuration
+  377  ip addr
+  378  pwd
+  379  cd ..
+  380  ls
+  381  cd etc
+  382  ls
+  383  hostnamectl
+  384  vim hosts
+  385  vim hostname
+  386  init 6
+  387  adduser alumno
+  388  ls home
+  389  ls /home
+  390  su alumno
+  391  exit
+  392  deluser alumno
+  393  pwd
+  394  ls
+  395  ls /home
+  396  users
+  397  rm -rf /home/alumno/
+  398  ls
+  399  history > historial
+  400  more historial 
+  401  less historial 
+  402  tail historial 
+  403  cat historial 
+  404  users
+  405  groups
+  406  man addgr
+  407  man addgroup
+  408  man users
+  409  man groups
+  410  man group
+  411  cat /etc/n
+  412  cat /etc/group
+  413  cat /etc/user
+  414  man user
+  415  man group
+  416  cat /etc/group
+  417  cat /etc/group | grep miguel
+  418  exit
+  419  ls /home
+  420  cd /
+  421  pwd
+  422  adduser genioadmin
+  423  ls /home
+  424  exit
+  425  netplan apply
+  426  ss -4lna
+  427  ping www.google.es
+  428  ss -4lna
+  429  ping www.google.es
+  430  netplan apply
+  431  ping www.google.es
+  432  ss -4lna
+  433  ss -4ln
+  434  ss -4lna
+  435  ls /home
+  436  ss -4lna
+  437  ls /home
+  438  ss -4lna
+  439  ls
+  440  cd ..
+  441  ls
+  442  exit
+  443  cd
+  444  cd /
+  445  cd home
+  446  ls
+  447  deluser miguel
+  448  ls
+  449  rm -rf miguel
+  450  ls
+  451  deluser miguel
+  452  exit
+  453  deluser miguel
+  454  exit
+  455  deluser miguel
+  456  exit
+  457  deluser miguel
+  458  exit
+  459  ss -4lna
+  460  exit
+  461  ls /home
+  462  cd /
+  463  tiemdatectl settimezone Europe/Madrid
+  464  timedatectl set-timezone Europe/Madrid 
+  465  lvm
+  466  init 0
+  467  cd /
+  468  dmesg
+  469  dmesg | grep hhdd
+  470  dmesg | grep hdd
+  471  dmesg | grep hd
+  472  dmesg | grep hdd
+  473  dmesg | grep disk
+  474  dmesg | grep sata
+  475  dmesg | grep ide
+  476  dmesg | grep disk
+  477  dmesg | grep sd
+  478  dmesg | grep disk
+  479  dmesg | grep devices
+  480  dmesg | grep disk
+  481  dmesg | grep sd
+  482  tail | dmesg
+  483  dmesg | grep sd
+  484  pvscan
+  485  pvcreate /dev/sdb
+  486  pvscan
+  487  vgcreate linux /dev/sdb
+  488  man vgcreate
+  489  vgscan
+  490  vgs
+  491  man vgs
+  492  pvs
+  493  man lvcreate
+  494  lvcreate -L 2G linux -n lv_test
+  495  lvs
+  496  vgs
+  497  man lv
+  498  lvername /dev/linux/lv_test /dev/linux/lv_prueba
+  499  lvrename /dev/linux/lv_test /dev/linux/lv_prueba
+  500  lvs
+  501  vgs
+  502  lvscan
+  503  lvcreate -L linux -n lv_data
+  504  lvcreate -L 1G linux -n lv_data
+  505  vgs
+  506  lvscan
+  507  dmesg | grep disk
+  508  dmesg | grep sd
+  509  lvscan
+  510  man mkfs
+  511  man mkfs.ext4
+  512  mkfs.ext4 /dev/linux/lv_prueba 
+  513  man mkfs.ext4
+  514  lvscan
+  515  dmesg | grep sd
+  516  vgs
+  517  pvscan
+  518  pvscan -a
+  519  ls /dev/
+  520  ls /dev/sdb
+  521  ls /dev/linux
+  522  ls /dev/linux/lv_data 
+  523  ls /dev/sdb
+  524  ls /dev/
+  525  vgs
+  526  vgscan
+  527  pvs
+  528  pvscan
+  529  history
+  530  man mkfs
+  531  man mount
+  532  mount -t /dev/linux/lv_prueba /mnt
+  533  mount -t /dev/linux/lv_prueba mnt/
+  534  mount -t /dev/linux/lv_prueba /mnt
+  535  mount /dev/linux/lv_prueba /mnt
+  536  man mount
+  537  man mount | grep temp
+  538  man mount | grep -t
+  539  man mount | grep "-t"
+  540  man mount | grep t
+  541  man mount
+  542  man df
+  543  df
+  544  df -h
+  545  cd /
+  546  ls
+  547  cd mnt
+  548  ls
+  549  man wget
+  550  wget https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg
+  551  ls
+  552  pwd
+  553  umount /dev/linux/lv_prueba
+  554  cd /
+  555  umount /dev/linux/lv_prueba
+  556  ls mnt/
+  557  vgs
+  558  lvs
+  559  lvremove /dev/linux/lv_data
+  560  lvs
+  561  vgs
+  562  lvs
+  563  pvs
+  564  vgs
+  565  lvextend -L+1.5G /dev/linux/lv_prueba 
+  566  vgs
+  567  pvs
+  568  man lvextend
+  569  lvscan
+  570  mount /dev/linux/lv_prueba /mnt
+  571  ls /mnt
+  572  df -h
+  573  lvscan
+  574  resize2fs /dev/linux/lv_prueba
+  575  df -h
+  576  man resize
+  577  man resize2fs
+  578  init 0
+  579  df -h
+  580  dmesg | grep disk
+  581  dmesg | grep sd
+  582  pvscan
+  583  ls /dev/
+  584  ls /dev/sdc
+  585  man vg
+  586  man vgadd
+  587  man vgextend
+  588  pvcreate /dev/sdc
+  589  pvs
+  590  man vgextend
+  591  vgextend linux /dev/sdc
+  592  vgs
+  593  vgscan
+  594  vgs
+  595  lvs
+  596  lvscan
+  597  lvextend -L+4G /dev/linux/lv_prueba 
+  598  resize2fs /dev/linux/lv_prueba
+  599  lvscan
+  600  lvs
+  601  e2fsck -f /dev/linux/lv_prueba 
+  602  man e2fsck
+  603  lvs
+  604  lvscan
+  605  vgs
+  606  lvs
+  607  init 0
+  608  dmesg | grep disk
+  609  pvscan
+  610  pvcreate /dev/sdd
+  611  vgextend linux /dev/sdd
+  612  vgs
+  613  lvextend -L+4G /dev/linux/lv_prueba 
+  614  resize2fs /dev/linux/lv_prueba
+  615  e2fsck -f /dev/linux/lv_prueba 
+  616  vgs
+  617  lvs
+  618  df -h
+  619  dmesg | grep disk
+  620  init 0
+  621  lvs
+  622  vgs
+  623  vgscan
+  624  init 0
+  625  apt update
+  626  vgs
+  627  ufw status
+  628  man ufw
+  629  exit
+  630  ss -l4na
+  631  ss -l4
+  632  ss -l4n
+  633  ss -l4na
+  634  ss -4 -aln
+  635  ss -l4na
+  636  ss -4 -aln
+  637  ss -aln
+  638  ss -4 -aln
+  639  ss -4aln
+  640  ss -l4na
+  641  ss -4aln
+  642  ss -l4na
+  643  ss -4aln
+  644  ss -l4n
+  645  ss -l4na
+  646  ss -4aln
+  647  ss
+  648  ss | grep :23
+  649  ss | grep :53
+  650  ss | grep 53
+  651  ss -4aln
+  652  ss -4aln | grep 53
+  653  ss -4an
+  654  ss -4n
+  655  ss -4an
+  656  ss -4anl
+  657  ss -4aln
+  658  systemctl status ssh
+  659  systemctl status sshd
+  660  apt install openssh_server
+  661  apt install openssh-server
+  662  df -h
+  663  apt autoremove --purge snap
+  664  apt autoremove --purge snapd
+  665  df -h
+  666  ls /
+  667  apt install openssh-server
+  668  df -h
+  669  apt install -y openssh-server
+  670  apt install openssh-server
+  671  ss -4aln
+  672  systemctl status ssh
+  673  init 0
+  674  ls /etc/ssh/
+  675  ls
+  676  ls -la
+  677  pwd
+  678  cd /etc/ssh
+  679  ls
+  680  ls -l
+  681  cd ..
+  682  ls L
+  683  ls -l
+  684  cd ssh
+  685  ls -l
+  686  cat ssh_config
+  687  cd
+  688  ls
+  689  cd
+  690  ls
+  691  cd ~
+  692  ls
+  693  cd /hmoe
+  694  cd /home
+  695  ls
+  696  cd ..
+  697  cd
+  698  cd /home
+  699  systemctl status telnetd
+  700  systemctl status telnet
+  701  systemctl status inetd
+  702  ss -4 -lntp
+  703  systemctl status inetd
+  704  stop inetd
+  705  systemctl stop inetd
+  706  systemctl disable inetd
+  707  apt autoremove --purge inetd
+  708  apt autoremove --purge telnetd
+  709  systemctl status inetd
+  710  ss -4 -lntp
+  711  history
+  712  history > /home/genioadmin/historial.txt
+  713  apt istall cifs-utils
+  714  apt install cifs-utils
+  715  ls /mnt
+  716  mount -t cifs -o username=smbusr109 //www.trizclass.com/triz-ifct0109 /mnt
+  717  ls
+  718  ls /mnt
+  719  cd /mnt
+  720  ls
+  721  ls- l
+  722  ls -l
+  723  cd Alumnos/
+  724  ls
+  725  ls -l
+  726  cd ..
+  727  ls -l
+  728  df -h
+  729  exit
+  730  ss -nltp
+  731  man ss
+  732  ss -nltp
+  733  init 0
+  734  ss -nltp
+  735  timedatectl
+  736  ss -4 -lnup
+  737  init 0
+  738  sudo systemctl status systemd-timesyncd
+  739  init 6
+  740  sudo systemctl status systemd-timesyncd
+  741  sudo systemctl stop sustemd-timesyncd
+  742  sudo systemctl stop systemd-timesyncd
+  743  sudo systemctl disable systemd-timesyncd
+  744  sudo systemctl status systemd-timesyncd
+  745  timedatectl
+  746  apt install -y chrony
+  747  apt-get update
+  748  apt install -y chrony
+  749  nano /etc/chrony/chrony.conf 
+  750  systemctl status chrony
+  751  systemctl restart chrony
+  752  systemctl status chrony
+  753  timedatctl
+  754  timedatectl
+  755  lvscan
+  756  init 0
+  757  nano /etc/hosts
+  758  nano /etc/hostname 
+  759  init 6
+  760  history
+  761  exit
+  762  vim /etc/hosts
+  763  vim /etc/hostname
+  764  init 6
+  765  init 0
+  766  history
+  767  apt install libnet-snmp-perl apache2 libapache2-mod-php -y
+  768  history
+  769  apt install libnet-snmp-perl apache2 libapache2-mod-php -y
+  770  apt install rrdtool php mariadb-server php-mysql sendmail -y
+  771  history
+  772  ls
+  773  ls /usr/src/nagios/
+  774  ls /usr/src
+  775  cp nagios-4.4.6.tar.gz /usr/src/
+  776  cp nagios-plugins-2.3.3.tar.gz /usr/src/
+  777  cd /usr/src
+  778  l
+  779  ls
+  780  tar -xf nagios-4.4.6.tar.gz -C /opt/
+  781  ls /opt
+  782  history
+  783  init 0
+  784  history
+  785  cd /usr/src
+  786  wget https://assets.nagios.com/downloads/nagiosxi/xi-5.8.3.tar.gz
+  787  wget https://assets.nagios.com/downloads/nagiosxi/5/xi-5.8.3.tar.gz
+  788  ls
+  789  apt install pkconfig libgd-tools perl lib-perl-dev -y
+  790  apt install pkconfig libgd-tools perl libperl-dev -y
+  791  apt install pkg-config libgd-tools perl libperl-dev -y
+  792  ls
+  793  tar -xf xi-5.8.3.tar.gz -C /opt
+  794  ls /opt
+  795  cd /opt/nagiosxi
+  796  ls
+  797  ls -l
+  798  ls -la
+  799  l
+  800  ls
+  801  sh fullinstall 
+  802  apt install mysql-server
+  803  ls
+  804  vim 1-prereqs 
+  805  nano 1-prereqs 
+  806  apt install libmysqlclient-dev python3-pymssql python3-lxml python3-numpy python3-pip python3-rrdtool
+  807  sh fullinstall 
+  808  nano 1-prereqs 
+  809  apt update
+  810  apt upgrade
+  811  sh fullinstall 
+  812  nano 1-prereqs 
+  813  sh fullinstall 
+  814  df -h
+  815  lvscan
+  816  pvscan
+  817  pvs
+  818  pvscan
+  819  df -h
+  820  pvs
+  821  cfdisk 
+  822  pvs
+  823  pvresize /dev/sda3
+  824  pvs
+  825  lvextend -L +42G /dev/ubuntu-vg/ubuntu-lv 
+  826  lvs
+  827  df -h
+  828  resize2fs /dev/ubuntu-vg/ubuntu-lv 
+  829  df -h
+  830  history
+  831  init 0
+  832  history
+  833  cd /opt/nagiosxi/
+  834  cfdisk
+  835  history
+  836  sh fullinstall 
+  837  systemctl status nagios
+  838  systemctl status nagiosxi
+  839  systemctl status nagios
+  840  exit
+  841  ping 200.1.1.1025
+  842  ping 200.1.1.102
+  843  history
+  844  cd /usr/local/nagios/libexec/
+  845  sh check_snmp_mikrotik_memory.pl 
+  846  history
+  847  ln -s utils.pm /usr/lib/nagios/plugins/
+  848  nano check_snmp_mikrotik_memory.pl 
+  849  ln -s /opt/nagiosxi/subcomponents/nagiosplugins/nagios-plugins-2.3.3/plugins-scripts/utils.pm /usr/lib/nagios/plugins/utils.pm 
+  850  ls -la /usr/lib/nagios/plugins/utils.pm 
+  851  rm /usr/lib/nagios/plugins/utils.pm 
+  852  ln -s /opt/nagiosxi/subcomponents/nagiosplugins/nagios-plugins-2.3.3/plugins-scripts/utils.pm /usr/lib/nagios/plugins/utils.pm 
+  853  ls -la /usr/lib/nagios/plugins/utils.pm 
+  854  cd /
+  855  sh /usr/local/nagios/libexec/check_snmp_mikrotik_memory.pl -H 200.1.2.106 -C "public" -w 40 -c 50
+  856  ./usr/local/nagios/libexec/check_snmp_mikrotik_memory.pl -H 200.1.2.106 -C "public" -w 40 -c 50
+  857  df -h
+  858  ./usr/local/nagios/libexec/check_snmp_mikrotik_memory.pl -H 200.1.2.106 -C "public" -w 40 -c 50
+  859  ./usr/local/nagios/libexec/check_snmp_mikrotik_memory.pl -H 200.1.2.102 -C "public" -w 40 -c 50
+  860  ./usr/local/nagios/libexec/check_snmp_mikrotik_memory.pl -H 200.1.2.106 -C "public" -w 40 -c 50
+  861  nano /usr/local/nagios/etc/services/mk-mnb.geniofruit.com.cfg 
+  862  man chmd
+  863  man chmod
+  864  ./usr/local/nagios/libexec/check_snmp_mikrotik_memory.pl -H 200.1.2.106 -C "public" -w 40 -c 50
+  865  nano /usr/local/nagios/etc/services/mk-mnb.geniofruit.com.cfg 
+  866  ./usr/local/nagios/libexec/check_snmp_mikrotik_memory.pl -H 200.1.2.106 -C "public" -w 40 -c 50
+  867  nano /usr/local/nagios/etc/services/mk-mnb.geniofruit.com.cfg 
+  868  systemctkl status nagios
+  869  systemctl status nagios
+  870  ./usr/local/nagios/libexec/check_snmp_mikrotik_memory.pl -H 200.1.2.106 -C "public" -w 40 -c 50
+  871  nano /usr/local/nagios/etc/services/mk-mnb.geniofruit.com.cfg 
+  872  systemctl status nagios
+  873  nano /usr/local/nagios/etc/services/mk-mnb.geniofruit.com.cfg 
+  874  systemctl status nagios
+  875  ./usr/local/nagios/libexec/check_snmp_mikrotik_memory.pl -H 200.1.2.106 -C "public" -w 40 -c 50
+  876  systemctl restart nagios
+  877  nano /usr/local/nagios/etc/services/mk-mnb.geniofruit.com.cfg 
+  878  ./usr/local/nagios/libexec/check_snmp_mikrotik_memory.pl -H 200.1.2.106 -C "public" -w 40 -c 50
+  879  ./usr/local/nagios/libexec/check_snmp_mikrotik_memory.pl -H 200.1.2.106 -C "public" -w 40 -c 50 -n
+  880  sytemctl status mariadb
+  881  systemctl status mariadb
+  882  ./usr/local/nagios/libexec/check_snmp_mikrotik_memory.pl -H 200.1.2.106 -C "public" -w 40 -c 50 -n
+  883  nano /usr/local/nagios/etc/services/mk-mnb.geniofruit.com.cfg 
+  884  systemctl restart nagios
+  885  systemctl status nagios
+  886  snmpwalk -v2c -c public 200.1.2.106 system
+  887  history
+  888  nano /usr/local/nagios/etc/services/mk-mnb.geniofruit.com.cfg 
+  889  ip addr
+  890  mariadb -u usrwp -h 200.1.2.248 -p GetafeT1c
+  891  mariadb -u usrwp -h 200.1.2.248 -pGetafeT1c
+  892  history
+  893  init 0
+  894  vim /usr/local/nagios/etc/services/localhost.cfg 
+  895  history
+  896  git clone https://www.github.com/mnavarro42/ifct0109.git
+  897  ls
+  898  cd ifct0109/
+  899  ls
+  900  history > nagios.txt
